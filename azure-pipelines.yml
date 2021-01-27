@@ -13,6 +13,6 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      javac sample1.java
+      javac Sample1.java
       
-      java sample1
+      java Sample1
